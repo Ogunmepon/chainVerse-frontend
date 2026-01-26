@@ -80,3 +80,6 @@ export interface UserProfilData {
 }
 
 export interface WalletData {}
+
+// Export to make this file a module
+export {};
